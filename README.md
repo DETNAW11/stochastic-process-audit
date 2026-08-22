@@ -57,7 +57,7 @@ Monte Carlo simulations ($1,000$ iterations over $1,000$ rounds) demonstrate tha
 
 1. **Clone the repository:**
 ```bash
-git clone [https://github.com/YOUR_USERNAME/stochastic-process-audit.git](https://github.com/YOUR_USERNAME/stochastic-process-audit.git)
+git clone https://github.com/DETNAW11/stochastic-process-audit.git
 cd stochastic-process-audit
 
 ```
